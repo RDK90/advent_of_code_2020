@@ -17,4 +17,4 @@ The tests can be run using
 
 ## References
 
-2019 examples learned from https://github.com/adriennetacke/advent-of-code-2019 (We're new at JavaScript)
+2019 examples learned from https://github.com/adriennetacke/advent-of-code-2019 Thanks for sharing!
